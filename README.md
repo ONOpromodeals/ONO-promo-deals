@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>ONO Promo Code Not Working? Use ONOROLLER to Save Up to 50%</title>
-</head>
-<body>
-  <h1>ONO Promo Code Not Working? Use <strong>ONOROLLER</strong> to Save Up to 50%</h1>
+ <h1>ONO Promo Code Not Working? Use <strong>ONOROLLER</strong> to Save Up to 50%</h1>
 
   <p>Tried using an ONO promo code but it didn’t work? Skip the guesswork — just use <strong>ONOROLLER</strong> at checkout to save up to <strong>50% instantly</strong>.</p>
 
